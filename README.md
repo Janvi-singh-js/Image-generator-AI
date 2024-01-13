@@ -1,2 +1,3 @@
 # Image-generator-AI
 Android app for generating a image from the text with the help of open ai
+Imagismart is a user-friendly Android app developed in Kotlin using Android Studio, designed to effortlessly convert text into visually striking images through the integration of the OpenAI API. To get started, simply clone the repository, update the OpenAI API key in the main_activity.kt file, and run the app on your Android device or emulator. Users only need to provide the desired text, press the "Generate Image" button, and witness the magic as Imagismart utilizes the OpenAI API to create stunning images. Contributions are welcomed through feedback, issues, or pull requests. Remember to keep your OpenAI API key confidential and follow secure practices for key management.
